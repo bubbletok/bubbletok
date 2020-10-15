@@ -5,7 +5,7 @@
   - Creating 2D Tower Defense Game by using Unity
 ### 🌱 I’m currently learning ...
   - C++, C#
-  - Unity [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity)]()
+  - Unity
   - Github 😄
 ### ✨ l'm interested in ...
   - Creating game
