@@ -7,6 +7,8 @@
   - C++, C#
   - Unity
   - Github 😄
+  - Data strucure
+  - Algorithm
 ### ✨ l'm interested in ...
   - Creating game
   - Learning other language
