@@ -2,7 +2,6 @@
 👋 Hello! Good to see you
 
 ### 🔭 What I'm currently doing is ...
-  - Creating 2D Platform RPG Game
   - Solving Programming Problems
 ### 🌱 I’m currently learning ...
   - C++, C#
