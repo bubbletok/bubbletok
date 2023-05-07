@@ -3,7 +3,7 @@
 
 ### 🔭 What I'm currently doing is ...
   - Solving Programming Problems
-  - Make Korean Wordle
+  - Creating Korean Wordle
 ### 🌱 I’m currently learning ...
   - C++, C#
   - Unity, Unreal
