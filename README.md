@@ -4,7 +4,7 @@
 
 ### 🔭 What I'm currently doing is ...
   - Solving Programming Problems
-  - Creating Korean Wordle
+  - Creating games
 ### 🌱 I’m currently learning ...
   - C++, C#
   - Unity, Unreal
