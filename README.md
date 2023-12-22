@@ -7,8 +7,8 @@
   - Creating games
 ### 🌱 I’m currently learning ...
   - C++, C#
-  - Unity, Unreal
-  - AI
+  - Unity, Unreal, Godot
+  - AI, Reinforcement Learning
   - Data strucure, Algorithm
 ### ✨ l'm interested in ...
   - Creating game
