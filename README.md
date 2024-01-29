@@ -17,5 +17,6 @@
   - AI
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdthd123)](https://solved.ac/ghdthd123)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbletok\&include_all_commits=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbubbletok&count_bg=%230092FF&title_bg=%233CBDFF&icon=jenkins.svg&icon_color=%230E0E0E&title=Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
