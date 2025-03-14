@@ -6,15 +6,17 @@
 ### 🔭 What I'm currently doing is ...
   - Solving Programming Problems
   - Creating games
+  - Internship
+  - LLM research
 ### 🌱 I’m currently learning ...
   - C++, C#
-  - Unity, Unreal, Godot
+  - Unity, Unreal
   - AI, Reinforcement Learning
-  - Data strucure, Algorithm
+  - LLM-based Agent
 ### ✨ l'm interested in ...
   - Creating game
-  - Learning other languages
-  - AI
+  - LLM
+  - 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdthd123)](https://solved.ac/ghdthd123)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbletok\&include_all_commits=true)
