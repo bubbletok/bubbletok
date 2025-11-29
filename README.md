@@ -6,18 +6,14 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://trypro329.tistory.com)](https://trypro329.tistory.com)
 
 ### 🔭 What I'm currently doing is ...
-  - Solving Programming Problems
   - Creating games
-  - Internship
-  - LLM research
+  - Develop simulator
 ### 🌱 I’m currently learning ...
   - C++, C#
   - Unity, Unreal
-  - AI, Reinforcement Learning
-  - LLM-based Agent
+  - CI/CD
 ### ✨ l'm interested in ...
   - Creating game
-  - Multi-Agent System(MAS)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdthd123)](https://solved.ac/ghdthd123)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbletok\&include_all_commits=true)
