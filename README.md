@@ -3,7 +3,6 @@
   - C++, C#, Python
   - UI, Server-Client, Architecture, Optimization
   - Devops, CI/CD, Test Automation
-  - Infra Management
 
 ![](https://komarev.com/ghpvc/?username=bubbletok)
 
